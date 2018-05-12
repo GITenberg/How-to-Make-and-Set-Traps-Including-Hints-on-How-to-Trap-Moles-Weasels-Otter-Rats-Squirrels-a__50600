@@ -1,10 +1,16 @@
 _repo: How-to-Make-and-Set-Traps-Including-Hints-on-How-to-Trap-Moles-Weasels-Otter-Rats-Squirrels-a__50600
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50600-h/images/cover.jpg
 creator:
   author:
     agent_name: Keene, J. Harrington
     gutenberg_agent_id: '45994'
     url: http://www.gutenberg.org/2009/agents/45994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50600#How-to-Make-and-Set-Traps-Including-Hints-on-How-to-Trap-Moles-Weasels-Otter-Rats-Squirrels-a_
 gutenberg_issued: '2015-12-03'
 gutenberg_type: Text
 identifiers:
